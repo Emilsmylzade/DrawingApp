@@ -2,6 +2,7 @@
 
 <div style="display:flex; flex-wrap:wrap; justify-content:center;">
   <img src="drawingAppSS1.png" alt="Screenshot 1" width="300" style="margin-right: 20px;">
+  <img src="drawingAppSS2.png" alt="Screenshot 1" width="300" style="margin-right: 20px;">
 </div>
 
 This is a basic drawing app that allows you to draw with different colors and brush sizes, undo your drawings, import a background image, and export your drawings.
@@ -9,9 +10,6 @@ This is a basic drawing app that allows you to draw with different colors and br
 ## Features
 
 - Draw with different colors: Choose from a variety of colors to create your artwork.
-<div style="display:flex; flex-wrap:wrap; justify-content:center;">
-  <img src="drawingAppSS2.png" alt="Screenshot 1" width="300" style="margin-right: 20px;">
-</div>
 - Adjust brush size: Customize the brush size according to your preference. 
 <div style="display:flex; flex-wrap:wrap; justify-content:center;">
   <img src="drawingAppSS6.png" alt="Screenshot 1" width="300" style="margin-right: 20px;">
@@ -20,7 +18,7 @@ This is a basic drawing app that allows you to draw with different colors and br
 - Import background image: Bring in an image to draw on top of it.
 <div style="display:flex; flex-wrap:wrap; justify-content:center;">
   <img src="drawingAppSS4.png" alt="Screenshot 1" width="300" style="margin-right: 20px;">
-  <img src="drawingAppSS4.png" alt="Screenshot 2" width="300">
+  <img src="drawingAppSS5.png" alt="Screenshot 2" width="300">
 </div>
 - Export your drawing: Save or share your artwork with friends.
 <div style="display:flex; flex-wrap:wrap; justify-content:center;">
